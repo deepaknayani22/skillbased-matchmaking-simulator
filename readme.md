@@ -1,4 +1,4 @@
-#![FinalSimV2-ezgif com-video-to-gif-converter](https://github.com/deepaknayani22/skillbased-matchmaking-simulator/assets/64520527/62209c6b-6fc1-4f93-9297-7a04483cf78b)
+![FinalSimV2-ezgif com-video-to-gif-converter](https://github.com/deepaknayani22/skillbased-matchmaking-simulator/assets/64520527/62209c6b-6fc1-4f93-9297-7a04483cf78b)
 
 ## Simulating Matchmaking in Online Multiplayer Games
 
