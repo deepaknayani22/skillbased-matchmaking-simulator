@@ -1,4 +1,6 @@
-# Simulating Matchmaking in Online Multiplayer Games
+#![FinalSimV2-ezgif com-video-to-gif-converter](https://github.com/deepaknayani22/skillbased-matchmaking-simulator/assets/64520527/62209c6b-6fc1-4f93-9297-7a04483cf78b)
+
+## Simulating Matchmaking in Online Multiplayer Games
 
 This project, developed for CSE 561: Modeling & Simulation Theory and Application, focuses on creating a realistic simulation of a matchmaking system for online multiplayer games. Our simulation aims to enhance player satisfaction by efficiently matching players of similar skills, thus ensuring fairness and minimizing wait times in the queue.
 
