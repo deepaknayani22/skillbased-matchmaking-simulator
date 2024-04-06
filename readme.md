@@ -36,7 +36,3 @@ For further inquiries or contributions to the project, please contact:
 - School of Computing and Augmented Intelligence
 - Arizona State University, Tempe, Arizona, USA
 - Email: dnayani@asu.edu
-
-## References
-
-A list of references and resources utilized throughout the project development process.
